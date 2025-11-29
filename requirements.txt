@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+chromadb
+google-generativeai
+python-dotenv
+langchain
+langchain-community
+langchain-text-splitters
+tqdm
+matplotlib
+pillow
+pydantic
