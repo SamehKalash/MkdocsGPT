@@ -9,7 +9,7 @@ It uses:
 - 🤖 **Gemini 2** to generate accurate, context-grounded answers
 - ⚙️ **FastAPI** as the backend for serving answers
 
-![mkdocsGPT Demo](mkdocsrag.gif)
+![mkdocsGPT Demo]https://github.com/SamehKalash/MkdocsGPT/blob/main/mkdocsrag.gif)
 
 ---
 
